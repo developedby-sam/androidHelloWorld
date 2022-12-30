@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="samir_intro">Hello World!, I\'m Samir. I love android development and dogs.</string>
+    <string name="btn_hello">Say Hello</string>
+    <string name="dog_image_description">Image of a dog</string>
+</resources>
